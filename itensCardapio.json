@@ -1,0 +1,53 @@
+[
+  {
+    "id": 1,
+    "nome": "Feijoada",
+    "descricao": "Feijoada com carne suinas, calabresa e bacon",
+    "categoria": "PRATOS_PRINCIPAIS",
+    "preco": 29.99,
+    "precoComDesconto": 25.99
+  },
+  {
+    "id": 2,
+    "nome": "Frango",
+    "descricao": "Frando",
+    "categoria": "PRATOS_PRINCIPAIS",
+    "preco": 14.99,
+    "precoComDesconto": 13.99
+  },
+  {
+    "id": 3,
+    "nome": "Coca",
+    "descricao": "Refrigerante",
+    "categoria": "BEBIDAS",
+    "preco": 5.99
+  },
+  {
+    "id": 4,
+    "nome": "Guarana Anthatica",
+    "descricao": "Refrigerante",
+    "categoria": "BEBIDAS",
+    "preco": 5.99
+  },
+  {
+    "id": 5,
+    "nome": "Pepsi",
+    "descricao": "Refrigerante",
+    "categoria": "BEBIDAS",
+    "preco": 5.99
+  },
+  {
+    "id": 6,
+    "nome": "Fant - Laranja",
+    "descricao": "Refrigerante",
+    "categoria": "BEBIDAS",
+    "preco": 4.99
+  },
+  {
+    "id": 7,
+    "nome": "Fant - Uva",
+    "descricao": "Refrigerante",
+    "categoria": "BEBIDAS",
+    "preco": 4.99
+  }
+]
